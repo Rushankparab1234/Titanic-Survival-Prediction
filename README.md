@@ -21,30 +21,6 @@ The project demonstrates a complete machine learning workflow, including data pr
 
 
 
-## 📂 Project Structure
-
-```
-Titanic_Survival_Prediction/
-│
-├── data/
-│   ├── train.csv
-│   └── test.csv
-│
-├── notebook/
-│   └── Titanic_Survival_Prediction.ipynb
-│
-├── model/
-│   ├── logistic_regression.pkl
-│   ├── decision_tree.pkl
-│   └── random_forest.pkl
-│
-├── images/
-│
-├── README.md
-├── requirements.txt
-└── app.py                # Future Streamlit Application
-```
-
 
 
 # 📊 Dataset
